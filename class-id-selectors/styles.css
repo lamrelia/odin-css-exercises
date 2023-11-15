@@ -1,0 +1,10 @@
+.cool,
+.cooler {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e9967a;
+}
+
+.cooler {
+    font-size: 24px;
+    font-weight: bold;
+}
