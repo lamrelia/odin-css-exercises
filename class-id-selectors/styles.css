@@ -1,10 +1,20 @@
-.cool,
-.cooler {
+.cool {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #e9967a;
 }
 
 .cooler {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#numberTwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#numberFour {
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
